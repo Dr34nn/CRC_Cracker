@@ -1,6 +1,6 @@
 # CRC_Cracker
 自动读取爆破加密zip/7z/rar中所有1-4字节文件CRC，按顺序输出，参照项目
-https://github.com/playGitboy/zipCrcCracker
+<br /> https://github.com/playGitboy/zipCrcCracker <br />
 https://github.com/theonlypwner/crc32
 
 # 区别
