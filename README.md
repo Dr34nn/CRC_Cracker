@@ -1,6 +1,3 @@
-# 工具目前存在问题(待修复)
-文件输出排序有问题，如输出排序为[1.txt,10.txt,11.txt,2.txt,20.txt,3.txt]
-
 # CRC_Cracker
 自动读取爆破加密zip/7z/rar中所有1-4字节文件CRC，按顺序输出，参照项目
 <br /> https://github.com/playGitboy/zipCrcCracker <br />
@@ -16,5 +13,6 @@ https://github.com/theonlypwner/crc32
 ```
 main.exe <path_to_zip_archive>
 ```
-
+# 工具目前存在的小问题(待修复)
+文件输出排序有问题，如输出排序为[1.txt,10.txt,11.txt,2.txt,20.txt,3.txt]
 
