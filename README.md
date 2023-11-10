@@ -3,16 +3,16 @@
 <br /> https://github.com/playGitboy/zipCrcCracker <br />
 https://github.com/theonlypwner/crc32
 
-# 区别
+## 区别
 网上zip文件crc爆破代码很多，这个脚本主要区别是不需要手动提取逐个填入CRC值，程序批量从加密的各种压缩包中读取CRC并爆破输出明文
 
-# 应用场景
+## 应用场景
 目前适用类型:zip/7z/rar，理论上7z能看的都能看
 
-# 使用方法
+## 使用方法
 ```
 main.exe <path_to_zip_archive>
 ```
-# 工具目前存在的小问题(待修复)
+## 工具目前存在的小问题(待修复)
 文件输出排序有问题，如输出排序为[1.txt,10.txt,11.txt,2.txt,20.txt,3.txt]
 
