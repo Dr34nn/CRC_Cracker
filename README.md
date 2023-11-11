@@ -16,5 +16,6 @@ https://github.com/theonlypwner/crc32
 crc32.exe <path_to_zip_archive>
 ```
 ## 工具目前存在的小问题(待修复)
-文件输出排序有问题，如输出排序为[1.txt,10.txt,11.txt,2.txt,20.txt,3.txt]
+~~文件输出排序有问题，如输出排序为[1.txt,10.txt,11.txt,2.txt,20.txt,3.txt]~~
+欢迎提出问题
 
