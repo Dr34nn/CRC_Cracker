@@ -1,5 +1,7 @@
 # CRC_Cracker
-自动读取爆破加密zip/7z/~~ra~~r中所有1-6字节文件CRC，按顺序输出，参照项目
+自动读取爆破加密zip/7z/~~ra~~r中所有1-6字节文件CRC，按顺序输出  
+ps:在爆破1-2字节内容时会有一些bug，等以后再改
+参照项目
 <br /> https://github.com/playGitboy/zipCrcCracker <br />
 https://github.com/theonlypwner/crc32
 
